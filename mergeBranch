@@ -1,4 +1,0 @@
-# Merge the branch
-
-* git checkout main (switch to the main branche)
-* git merge my-branch (merge "my-branch" with the "main" branch)
