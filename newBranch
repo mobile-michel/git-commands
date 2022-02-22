@@ -1,0 +1,7 @@
+# Create a new branch
+
+* git branch my-branch (create a new branch to store any new changes)
+* git checkout my-branch (switch to that branch, line of development)
+* git add --all (stage the changed files)
+* git commit -m "my snapshot" (take a snapshot of the staging area, anything that's been added)
+* git push --set-upstream origin my-branch (push changes to GitHub)
