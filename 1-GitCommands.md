@@ -1,6 +1,6 @@
 # Git Commands
 
-## Git State
+## Git States
 
 * git --version
 * git init
@@ -9,11 +9,11 @@
 
 ## Synchronise Changes
 
-Working Directory > [add] > Staging Area > [commit] > Local Repository > [push] > Remote Repository
-Working Directory > [commit -a] > Local Repository
-Working Directory < [checkout] < Staging Area
-Working Directory < [checkout HEAD] < Local Repository < [fetch] < Remote Repository
-Working Directory < [pull] < Remote Repository
+Working Directory > [add] > Staging Area > [commit] > Local Repository > [push] > Remote Repository  
+Working Directory > [commit -a] > Local Repository  
+Working Directory < [checkout] < Staging Area  
+Working Directory < [checkout HEAD] < Local Repository < [fetch] < Remote Repository  
+Working Directory < [pull] < Remote Repository  
 
 * git add (add a file to the staging area)
 * git commit (commit files from the staging area to the local repository)
