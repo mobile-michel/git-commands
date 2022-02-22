@@ -1,5 +1,6 @@
 # Using Git & GitHub
 
-1. Clone a repository
-2. Initialise Git
-3. Make changes
+1. List of Git Commands
+2. Clone a repository
+3. Initialise Git
+4. Make changes
