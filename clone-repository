@@ -1,0 +1,6 @@
+# Clone a repository
+
+20 February 2022 - Silverstone - Git v2.20.1
+
+* cd github
+* git clone https://github.com/mobile-michel/hello-world.git
